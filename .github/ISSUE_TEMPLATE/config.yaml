@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Our Website
+    url: https://www.codewithmahesh.com/
+    about: Visit our website to learn more about our services and offerings.
+  - name: Our LinkedIn
+    url: https://www.linkedin.com/company/code-with-mahesh/
+    about: Connect with us on LinkedIn for updates and professional insights.
+  - name: Our Instagram Handle
+    url: https://www.instagram.com/maheshghongade644/
+    about: Follow us on Instagram for updates and behind-the-scenes content.
